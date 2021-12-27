@@ -1,4 +1,4 @@
-Sentiment Analysis Using NLP Libraries
+Sentiment Analysis Using Neural Networks
 In PYTHON (April–May 2021)
 
 It is an attempt to monitor and rate 
