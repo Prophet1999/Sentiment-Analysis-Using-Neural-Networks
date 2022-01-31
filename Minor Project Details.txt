@@ -1,0 +1,94 @@
+Minor Project
+
+Goals
+Regardless of the name, the goal of sentiment analysis is the same: to know a user or audience opinion on a target object by analyzing a vast amount of text from various sources. You can analyze text on different levels of detail, and the detail level depends on your goals.
+
+Objective
+ The project mainly deals analysis of product reviews from various 
+ecommerce websites.
+ Our Main objective is to get the overall polarity of reviews for a 
+particular product
+
+The whole project is available in my github repository which are basically all the model files presentation, model, report Kaggle and Custom Datasets.
+GitHub URL-
+https://github.com/Prophet1999/prophet1999
+
+ Identify the orientation of opinion in a piece of text
+ Can be generalized to a wider set of emotions
+The movie 
+was fabulous!
+The movie 
+stars Mr. X
+The movie 
+was horrible!
+[ Sentimental ] [ Factual ] [ Sentimental ]
+
+Stakeholders and their names
+Akarsh Mathur- Backend development.
+Himanshu Patel- Data Collection, version control and Frontend development
+Harshit Jain- Data Integration and frontend design
+Kunal Sahu- Documentation testing and reporting
+
+Metrics for measuring Success
+As a classification problem, Sentiment Analysis uses the evaluation metrics of Precision, Recall, F-score, and Accuracy. Also, average measures like macro, micro, and weighted F1-scores are useful for multi-class problems. Depending on the balance of classes of the dataset the most appropriate metric should be used
+
+Sentiment Analysis
+ Movie: is this review positive or negative?
+ Products: what do people think about the new iPhone?
+ Public sentiment: how is consumer confidence?
+Is despair increasing?
+ Politics: what do people think about this candidate or issue?
+ Prediction: predict election outcomes or market trends
+from sentiment
+
+Sentiment analysis has many 
+other names
+Opinion extraction
+Opinion mining
+Sentiment mining
+Subjectivity analysis
+
+Case Diagram
+Texts
+Sentences
+Noun
+Adjective
+Positive Neutral Negative Polarity
+
+Areas To Be covered for 
+Sentiment Analysis
+ Long Short-Term Memory (LSTM)
+ Recurrent Neural Networks
+ Word Embeddings
+ Convolutional Neural Networks
+ DropOut
+ Padding
+ TensorFlow.Keras
+ Average Pooling and Pooling Layers
+ Adam Optimizer
+
+Software Specification
+ FRONT END : Tkinter by Python
+ BACK END : Python
+ PLATFORM : Windows
+
+CONCLUSION AND FUTURE WORKS
+ Sentiment analysis or opinion mining is a field of study that 
+analyzes people’s sentiments, attitudes, or emotions towards 
+certain entities. This project deal with a fundamental problem of 
+sentiment analysis, sentiment polarity categorization. Online 
+product reviews from Amazon.com are selected as data used for 
+this project. 
+ We plan to use more exhaustive techniques in future to build a 
+full-fledged model that is able to analyse a large set of data in a 
+little time and with good accuracy.
+
+References
+ https://www.GeeksforGeeks.org/
+ https://www.python.org/
+ https://www.coursera.org/
+ https://docs.python.org/3/tutorial/
+ https://www.Medium.com/
+ https://www.google.com/
+ https://www.Medium.com/
+ https://www.Wikipedia.org/
